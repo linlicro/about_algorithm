@@ -18,7 +18,7 @@
 
 1. [冒泡排序](1.1.bubbleSort.md)
 2. [选择排序](1.2.selectionSort.md)
-3. 插入排序
+3. [插入排序](1.3.insertSort.md)
 4. 希尔排序
 5. 归并排序
 6. 快速排序
